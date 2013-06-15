@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!DOCTYPE data SYSTEM "http://www.woltlab.com/DTDs/smilies.dtd">
+<data>
+  <import>
+		<smiley name=":)">
+			<title>Grinse Tee</title>
+			<path>images/smilies/01.png</path>
+		</smiley>
+		<smiley name="Hm?">
+			<title>What?!</title>
+			<path>images/smilies/02.png</path>
+		</smiley>
+		<smiley name=":(">
+			<title>Enttaeuscht</title>
+			<path>images/smilies/03.png</path>
+		</smiley>
+		<smiley name="^^">
+			<title>Amuesant</title>
+			<path>images/smilies/04.png</path>
+		</smiley>
+		<smiley name="+.+">
+			<title>Toter Tee</title>
+			<path>images/smilies/05.png</path>
+		</smiley>
+		<smiley name=":doh:">
+			<title>Doh!</title>
+			<path>images/smilies/06.png</path>
+		</smiley>
+		<smiley name="Grr">
+			<title>Grr Tee</title>
+			<path>images/smilies/07.png</path>
+		</smiley>
+		<smiley name="-.-">
+			<title>Angepisster Tee</title>
+			<path>images/smilies/08.png</path>
+		</smiley>
+		<smiley name="stee">
+			<title>Scared Tee</title>
+			<path>images/smilies/09.png</path>
+		</smiley>
+		<smiley name="v.v">
+			<title>Enttaeuschter Tee 2nd</title>
+			<path>images/smilies/10.png</path>
+		</smiley>
+		<smiley name=";)">
+			<title>*Zwinker*</title>
+			<path>images/smilies/11.png</path>
+		</smiley>
+		<smiley name=":love:">
+			<title>Love Tee</title>
+			<path>images/smilies/12.png</path>
+		</smiley>
+		<smiley name="O.o">
+			<title>WTF?!</title>
+			<path>images/smilies/13.png</path>
+		</smiley>
+		<smiley name=":P">
+			<title>Bllh</title>
+			<path>images/smilies/14.png</path>
+		</smiley>
+		<smiley name=":8">
+			<title>*Schaem*</title>
+			<path>images/smilies/15.png</path>
+		</smiley>
+		<smiley name=":D">
+			<title>Lachender Tee</title>
+			<path>images/smilies/16.png</path>
+		</smiley>
+		<smiley name=":Z">
+			<title>Kotz Tee</title>
+			<path>images/smilies/17.png</path>
+		</smiley>
+		<smiley name="8)">
+			<title>Cooler Tee</title>
+			<path>images/smilies/18.png</path>
+		</smiley>	
+        <smiley name=":'(">
+			<title>Heulender Tee</title>
+			<path>images/smilies/19.png</path>
+		</smiley>	
+        <smiley name="xD">
+			<title>xD</title>
+			<path>images/smilies/20.png</path>
+		</smiley>
+        <smiley name=":3">
+			<title>Hamster Tee</title>
+			<path>images/smilies/21.png</path>
+		</smiley>
+        <smiley name=":wut:">
+			<title>Sehr Wuetender Tee</title>
+			<path>images/smilies/22.png</path>
+		</smiley>		
+	</import>
+</data>
