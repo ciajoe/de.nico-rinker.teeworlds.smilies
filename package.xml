@@ -1,12 +1,10 @@
-<?xml version="1.0"?>
-<!DOCTYPE package SYSTEM "http://www.woltlab.com/DTDs/package.dtd">
 <package name="de.razor.teeworlds.smilies">
   <packageinformation>
 		<packagename languagecode="de"><![CDATA[Teeworlds Smilies]]></packagename>
 		<packagename languagecode="de-informal"><![CDATA[Teeworlds Smilies]]></packagename>
 		<packagename languagecode="en"><![CDATA[Teeworlds Smilies]]></packagename>
-		<packagedescription languagecode="de"><![CDATA[Fügt Teeworlds Smilies in Ihr WoltLab® Burning Board® ein. | Smilies by Zatline]]></packagedescription>
-		<packagedescription languagecode="de-informal"><![CDATA[Fügt Teeworlds Smilies in Dein WoltLab® Burning Board® ein. | Smilies by Zatline]]></packagedescription>
+		<packagedescription languagecode="de"><![CDATA[Bindet Teeworlds Smilies in Ihr WoltLab® Burning Board® ein. | Smilies von Zatline]]></packagedescription>
+		<packagedescription languagecode="de-informal"><![CDATA[Bindet Teeworlds Smilies in Dein WoltLab® Burning Board® ein. | Smilies von Zatline]]></packagedescription>
 		<packagedescription languagecode="en"><![CDATA[Adds some Teeworlds Smileys to your WoltLab® Burning Board®. | Smilies by Zatline]]></packagedescription>
 		<version>1.1.0</version>
 		<date>2013-05-01</date>
