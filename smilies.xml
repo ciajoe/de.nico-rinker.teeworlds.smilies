@@ -1,8 +1,6 @@
-<?xml version="1.0"?>
-<!DOCTYPE data SYSTEM "http://www.woltlab.com/DTDs/smilies.dtd">
 <data>
   <import>
-		<smiley name=":)">
+		<smiley name=":-)">
 			<title>Grinse Tee</title>
 			<path>images/smilies/01.png</path>
 		</smiley>
@@ -10,11 +8,11 @@
 			<title>What?!</title>
 			<path>images/smilies/02.png</path>
 		</smiley>
-		<smiley name=":(">
+		<smiley name=":-(">
 			<title>Enttaeuscht</title>
 			<path>images/smilies/03.png</path>
 		</smiley>
-		<smiley name="^^">
+		<smiley name="^-^">
 			<title>Amuesant</title>
 			<path>images/smilies/04.png</path>
 		</smiley>
@@ -42,11 +40,11 @@
 			<title>Enttaeuschter Tee 2nd</title>
 			<path>images/smilies/10.png</path>
 		</smiley>
-		<smiley name=";)">
+		<smiley name=";-)">
 			<title>*Zwinker*</title>
 			<path>images/smilies/11.png</path>
 		</smiley>
-		<smiley name=":love:">
+		<smiley name="<3">
 			<title>Love Tee</title>
 			<path>images/smilies/12.png</path>
 		</smiley>
@@ -54,7 +52,7 @@
 			<title>WTF?!</title>
 			<path>images/smilies/13.png</path>
 		</smiley>
-		<smiley name=":P">
+		<smiley name=":-P">
 			<title>Bllh</title>
 			<path>images/smilies/14.png</path>
 		</smiley>
@@ -62,7 +60,7 @@
 			<title>*Schaem*</title>
 			<path>images/smilies/15.png</path>
 		</smiley>
-		<smiley name=":D">
+		<smiley name=":-D">
 			<title>Lachender Tee</title>
 			<path>images/smilies/16.png</path>
 		</smiley>
@@ -70,7 +68,7 @@
 			<title>Kotz Tee</title>
 			<path>images/smilies/17.png</path>
 		</smiley>
-		<smiley name="8)">
+		<smiley name="8-)">
 			<title>Cooler Tee</title>
 			<path>images/smilies/18.png</path>
 		</smiley>	
