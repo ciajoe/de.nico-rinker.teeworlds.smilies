@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<!DOCTYPE package SYSTEM "http://www.woltlab.com/DTDs/package.dtd">
+<package name="de.razor.teeworlds.smilies">
+  <packageinformation>
+		<packagename languagecode="de"><![CDATA[Teeworlds Smilies]]></packagename>
+		<packagename languagecode="de-informal"><![CDATA[Teeworlds Smilies]]></packagename>
+		<packagename languagecode="en"><![CDATA[Teeworlds Smilies]]></packagename>
+		<packagedescription languagecode="de"><![CDATA[Fügt Teeworlds Smilies in Ihr WoltLab® Burning Board® ein. | Smilies by Zatline]]></packagedescription>
+		<packagedescription languagecode="de-informal"><![CDATA[Fügt Teeworlds Smilies in Dein WoltLab® Burning Board® ein. | Smilies by Zatline]]></packagedescription>
+		<packagedescription languagecode="en"><![CDATA[Adds some Teeworlds Smileys to your WoltLab® Burning Board®. | Smilies by Zatline]]></packagedescription>
+		<version>1.1.0</version>
+		<date>2013-05-01</date>
+		<isunique>1</isunique>
+	</packageinformation>
+	
+	<requiredpackages>
+		<requiredpackage>com.woltlab.wcf</requiredpackage>
+		<requiredpackage>com.woltlab.wcf.form.message</requiredpackage>
+	</requiredpackages>
+	
+	<authorinformation>
+		<author><![CDATA[Nico Rinker [RaZoR]]]></author>
+		<authorurl><![CDATA[http://nico-rinker.de]]></authorurl>
+	</authorinformation>
+	
+	<instructions type="install">
+	    <smilies>smilies.xml</smilies>
+		<files>files.tar</files>
+	</instructions>
+</package>
