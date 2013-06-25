@@ -1,5 +1,6 @@
-<data>
-  <import>
+<?xml version="1.0" encoding="UTF-8" ?>
+<data xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/smilies.xsd">
+ 	 <import>
 		<smiley name=":-)">
 			<title>Grinse Tee</title>
 			<path>images/smilies/01.png</path>
@@ -72,19 +73,19 @@
 			<title>Cooler Tee</title>
 			<path>images/smilies/18.png</path>
 		</smiley>	
-        <smiley name=":'(">
+        	<smiley name=":'(">
 			<title>Heulender Tee</title>
 			<path>images/smilies/19.png</path>
 		</smiley>	
-        <smiley name="xD">
+      	  	<smiley name="xD">
 			<title>xD</title>
 			<path>images/smilies/20.png</path>
 		</smiley>
-        <smiley name=":3">
+       		<smiley name=":3">
 			<title>Hamster Tee</title>
 			<path>images/smilies/21.png</path>
 		</smiley>
-        <smiley name=":wut:">
+        	<smiley name=":wut:">
 			<title>Sehr Wuetender Tee</title>
 			<path>images/smilies/22.png</path>
 		</smiley>		
